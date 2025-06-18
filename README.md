@@ -19,7 +19,7 @@ This is why my dotfiles do not include Windows terminal configurations, or termi
 
 ## Gallery
 
-(WIP)
+![Windows Terminal Screenshot](https://github.com/user-attachments/assets/87b89209-65dd-4d87-a2c1-bda85929ce99)
 
 ## Setup
 
